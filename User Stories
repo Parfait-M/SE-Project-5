@@ -1,0 +1,18 @@
+User Stories:
+
+User 1:
+- As a user, I want to have some recurring reminder, as I am always late to class because I forget the time it starts
+
+User 2:
+- As a user, I want to have something hard to stop/snooze, as I always snooze or stop my alarms before going back to bed.
+
+User 3:
+- As a user, I want to be able to set my own songs to the alarms/reminders, as I love waking up to my own music, instead of
+ generic android alarm sounds.
+
+ User 4:
+ - As a user, I want to be able to have different sounds to my reminders, as I tend to ignore sounds that I become familiar with.
+
+Choosing user 4.
+- Developing a system that creates alarms with different sounds was the most interesting. These sounds would feature somewhat irritating ones
+in order to prevent the user from going back to bed etc.
