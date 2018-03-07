@@ -64,7 +64,22 @@ public class Controller
 	public void startChecking() {
 		new CheckRemindersThread().start();
 	}
-
+	
+	public ArrayList<Alarm> getUpcomingRem(){
+		LocalDateTime ldt = LocalDateTime.now();
+		return model.getUpcomingAlarms(ldt);
+	}
+	
+	public ArrayList<Alarm> getUpcomingRem(LocalDateTime ldt){
+		return model.getUpcomingAlarms(ldt);
+	}
+	
+	public ArrayList<Alarm> getPassedRem(){
+		LocalDateTime ldt = LocalDateTime.now();
+		return model.getPassedAlarms(ldt);
+	}
+	
+	
 
 		/** MenuThread
 		 * @author Zachary
