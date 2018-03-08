@@ -8,4 +8,4 @@ Parfait Mwamba
 CSU East Bay
 Winter 2018
 CS 4310 - Software Engineering
-Group Project #4
+Group Project #5 (Optional)
